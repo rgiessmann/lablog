@@ -1,2 +1,5 @@
 - Mettler Toledo SevenCompact
-- Calibration on 2024-
+- Calibration on 2024-03-01 21:39
+	- B1(25°C) = 4.01
+	- mV1: 174.3mV
+	- Temp1: 20.7°C ATC
