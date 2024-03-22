@@ -1,5 +1,9 @@
 - Mettler Toledo SevenCompact
 - Calibration on 2024-03-01 21:39
-	- B1(25°C) = 4.01
+	- B1(25°C) = 4.01 pH
 	- mV1: 174.3mV
 	- Temp1: 20.7°C ATC
+	- B2(25°C) = 7.00 pH
+	- mV2: 1.2 mV
+	- Temp2: 20.7 °C ATC
+	- S.(B1/B2)=-58.23 mV/pH
