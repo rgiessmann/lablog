@@ -16,5 +16,5 @@
 	- serial number: I51509F
 - #p10
 	- eppendorf Research plus
-	- 100--1000uL
+	- 0.5--10uL
 	- serial number: P22033F
