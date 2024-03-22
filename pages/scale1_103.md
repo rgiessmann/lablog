@@ -1,3 +1,6 @@
 - Mettler AJ50
 - 0.0000g +- 1
 -
+- last maintenance: July 2023
+- next maintenance: July 2024
+	- maintenance done by Sartorius Service LPS CE|KDM:899
