@@ -1,4 +1,7 @@
-- Mettler AJ50
+- manufacturer: Mettler Toledo
+- type:  AJ50L
+- serial number: M31324
+-
 - 0.0000g +- 1
 -
 - last maintenance: July 2023
