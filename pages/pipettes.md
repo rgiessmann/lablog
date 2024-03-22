@@ -6,3 +6,11 @@
 	- eppendorf Research plus
 	- 100--1000uL
 	- serial number: J46913G
+- #p100
+	- eppendorf Research plus
+	- 10--100uL
+	- serial number: J12968F
+- #p20
+	- eppendorf Research plus
+	- 2--20uL
+	- serial number: I51509F
