@@ -1,3 +1,8 @@
 - #p200
 	- eppendorf Research plus
 	- 20--200 uL
+	- serial # : I51738F
+- #p1000
+	- eppendorf Research plus
+	- 100--1000uL
+	- serial number: J46913G
