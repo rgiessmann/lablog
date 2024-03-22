@@ -12,3 +12,10 @@
 	- B3(25°C) = 10.00 pH
 	- mV3: -171.2 mV
 	- Temp3: 20.7 °C ATC
+	- S.(B2/B3)=-56.52 mV/pH
+	- Slope[%] = 95.5 %
+	- Off.(B2/B3) = 2.2 mV
+	- Segmented
+	- Auto EP Medium
+	-
+	-
